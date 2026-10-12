@@ -40,7 +40,7 @@ This year we've had a considerable number of new visitors and interest in Serpen
 - Lack of understanding around what moss and boulder do
 - That features would add complexity when the tools were actually removing the complexity
 
-The good news is that a good chunk of it has been redone, including two new pages for our core tools `boulder` and `moss`. `Subscriptions` has been renamed to `Smart System Management` to reflect its broader nature (which you can read about [here](/docs)).
+The good news is that a good chunk of it has been redone, including two new pages for our core tools `boulder` and `moss`. `Subscriptions` has been renamed to `Smart System Management` to reflect its broader nature (which you can read about [here](/aerynos)).
 
 Much of the content has also had a refresh or a rewrite, so if you've seen it before, it will likely be a lot easier to digest now. But this isn't the final state of the content, as more features will need to be added and there's still a few rough edges (and I like to rewrite things every once in awhile). Many ideas have been raised by our community in the matrix channel[^1], so a shout-out to the good folks we have hanging out there.
 
